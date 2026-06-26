@@ -78,13 +78,13 @@ This project was developed as part of an MCA academic project and demonstrates d
 
 ## Add Expense
 
-![Add Expense](screenshots/add_expense.png)
+![Add Expense](screenshots/Add_expense.png)
 
 ---
 
 ## Expense Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/Analytics.png)
 
 ---
 
@@ -96,13 +96,13 @@ This project was developed as part of an MCA academic project and demonstrates d
 
 ## Export Reports
 
-![Export](screenshots/Export_Report.png)
+![Export](screenshots/Export_report.png)
 
 ---
 
 ## Settings
 
-![Settings](screenshots/settings.png)
+![Settings](screenshots/Settings.png)
 
 ---
 
