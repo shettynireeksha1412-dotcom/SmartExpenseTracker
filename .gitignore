@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Database Journals
+*.db-journal
+
+# Backup Files
+*.bak
+
+# Temporary Files
+*.tmp
+
+# System Files
+Thumbs.db
+.DS_Store
